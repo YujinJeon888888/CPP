@@ -18,6 +18,18 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="동일이름공간.cpp" />
+    <ClCompile Include="메소드1.cpp" />
+    <ClCompile Include="메소드2.cpp" />
+    <ClCompile Include="메인.cpp" />
+    <ClCompile Include="선언과정의.cpp" />
+    <ClCompile Include="소스.cpp" />
+    <ClCompile Include="이름공간중첩.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="헤더.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

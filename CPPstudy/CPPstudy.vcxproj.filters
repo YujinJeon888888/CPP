@@ -13,5 +13,45 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\namespace">
+      <UniqueIdentifier>{e6797da2-2ab9-4eea-b67e-895ee6589096}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\파일의분할">
+      <UniqueIdentifier>{510b5165-d80e-4606-813a-d3961c235fe3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\파일의분할\헤더파일">
+      <UniqueIdentifier>{16b1400c-70f8-4ce5-ae2d-dc176195f1eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\파일의분할\소스파일">
+      <UniqueIdentifier>{323e8527-3e39-4535-b442-f73dc4116f29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일\namespace</Filter>
+    </ClCompile>
+    <ClCompile Include="선언과정의.cpp">
+      <Filter>소스 파일\namespace</Filter>
+    </ClCompile>
+    <ClCompile Include="동일이름공간.cpp">
+      <Filter>소스 파일\namespace</Filter>
+    </ClCompile>
+    <ClCompile Include="이름공간중첩.cpp">
+      <Filter>소스 파일\namespace</Filter>
+    </ClCompile>
+    <ClCompile Include="메소드1.cpp">
+      <Filter>소스 파일\파일의분할\소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="메소드2.cpp">
+      <Filter>소스 파일\파일의분할\소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="메인.cpp">
+      <Filter>소스 파일\파일의분할\소스파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="헤더.h">
+      <Filter>소스 파일\파일의분할\헤더파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
