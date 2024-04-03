@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\파일의분할\소스파일">
       <UniqueIdentifier>{323e8527-3e39-4535-b442-f73dc4116f29}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\InsertionSort">
+      <UniqueIdentifier>{1b81fd4c-4d8f-4435-a12c-e6ffd290e867}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="소스.cpp">
@@ -47,6 +50,12 @@
     </ClCompile>
     <ClCompile Include="메인.cpp">
       <Filter>소스 파일\파일의분할\소스파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스1.cpp">
+      <Filter>소스 파일\InsertionSort</Filter>
+    </ClCompile>
+    <ClCompile Include="안보고연습.cpp">
+      <Filter>소스 파일\InsertionSort</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
