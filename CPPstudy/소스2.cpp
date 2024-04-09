@@ -57,7 +57,7 @@ void MergeSort(int A[], int start, int end) {
 }
 
 int main() {
-	int A [5] = {5,4,3,2,1};
+	int A [5] = {5,4,3,2,1}; //배열이기 때문에 값이 계속 동기화된다 // 함수공간에서의 제약 x
 	MergeSort(A, 0,std::size(A)-1);
 	for (int i = 0; i < std::size(A); i++) {
 		std::cout << A[i];
