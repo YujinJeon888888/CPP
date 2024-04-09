@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\InsertionSort">
       <UniqueIdentifier>{1b81fd4c-4d8f-4435-a12c-e6ffd290e867}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\MergeSort">
+      <UniqueIdentifier>{f9a5d490-20c3-4cd5-95a5-5106c3b1c41f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="소스.cpp">
@@ -56,6 +59,9 @@
     </ClCompile>
     <ClCompile Include="안보고연습.cpp">
       <Filter>소스 파일\InsertionSort</Filter>
+    </ClCompile>
+    <ClCompile Include="소스2.cpp">
+      <Filter>소스 파일\MergeSort</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
