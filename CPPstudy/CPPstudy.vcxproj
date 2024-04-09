@@ -28,6 +28,7 @@
     <ClCompile Include="소스1.cpp" />
     <ClCompile Include="소스2.cpp" />
     <ClCompile Include="안보고연습.cpp" />
+    <ClCompile Include="안보고연습2.cpp" />
     <ClCompile Include="이름공간중첩.cpp" />
   </ItemGroup>
   <ItemGroup>
