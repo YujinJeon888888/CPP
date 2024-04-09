@@ -1,8 +1,8 @@
-//#include "Çì´õ.h"
+ï»¿//#include "í—¤ë”.h"
 //
 //int main() {
 //	PrintHello();
-//	std::cout << "¾È´¨´¨";//Çì´õÆÄÀÏ¿¡ #include <iostream>À» ÇØÁÖ¾ú±â ¶§¹®¿¡ ¿À·ù¾ø´Ù.
+//	std::cout << "ì•ˆë‡½ë‡½";//í—¤ë”íŒŒì¼ì— #include <iostream>ì„ í•´ì£¼ì—ˆê¸° ë•Œë¬¸ì— ì˜¤ë¥˜ì—†ë‹¤.
 //	PrintNice();
 //	return 0;
 //}

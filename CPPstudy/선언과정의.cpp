@@ -1,4 +1,4 @@
-//#include <iostream>
+ï»¿//#include <iostream>
 //
 //namespace BestComImpl {
 //	void SimpleFunc();
@@ -16,9 +16,9 @@
 //}
 //
 //void BestComImpl::SimpleFunc(void) {
-//	std::cout << "bestcomÀÌ Á¤ÀÇÇÑ ÇÔ¼ö " << "\n";
+//	std::cout << "bestcomì´ ì •ì˜í•œ í•¨ìˆ˜ " << "\n";
 //}
 //
 //void ProgComImpl::SimpleFunc(void) {
-//	std::cout << "progcomÀÌ Á¤ÀÇÇÑ ÇÔ¼ö " << "\n";
+//	std::cout << "progcomì´ ì •ì˜í•œ í•¨ìˆ˜ " << "\n";
 //}

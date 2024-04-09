@@ -69,4 +69,7 @@
       <Filter>소스 파일\파일의분할\헤더파일</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
+  </ItemGroup>
 </Project>

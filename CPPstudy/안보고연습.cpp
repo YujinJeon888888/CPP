@@ -1,4 +1,4 @@
-//#include <iostream>
+ï»¿//#include <iostream>
 ///// <summary>
 ///// O(n^2)
 ///// </summary>
@@ -7,7 +7,7 @@
 //void InsertionSort(int A[], int n) {
 //	for (int i = 1; i < n; i++) {
 //		int key = A[i];
-//		int j = i - 1;//j´Â i¹Ù·Î ¿ÞÂÊ.
+//		int j = i - 1;//jëŠ” ië°”ë¡œ ì™¼ìª½.
 //		while (j >= 0 && A[j] > key) {
 //			A[j + 1] = A[j];
 //			j -= 1;		

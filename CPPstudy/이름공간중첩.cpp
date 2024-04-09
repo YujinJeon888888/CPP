@@ -1,4 +1,4 @@
-//#include <iostream>
+ï»¿//#include <iostream>
 //namespace Parent {
 //	int num = 2;
 //
@@ -11,7 +11,7 @@
 //	}
 //
 //}
-////ÀÌ¸§Ãæµ¹x. namespace°¡ ´Ù¸£±â ¶§¹®
+////ì´ë¦„ì¶©ëŒx. namespaceê°€ ë‹¤ë¥´ê¸° ë•Œë¬¸
 //
 //int main() {
 //	std::cout << Parent::num << std::endl;
