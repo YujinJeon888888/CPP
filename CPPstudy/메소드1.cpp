@@ -1,5 +1,5 @@
-﻿#include <iostream>
-
-void PrintHello() {
-	std::cout << "Hello\n";
-}
+//#include <iostream>
+//
+//void PrintHello() {
+//	std::cout << "Hello\n";
+//}

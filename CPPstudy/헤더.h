@@ -1,4 +1,4 @@
-﻿#include <iostream>
-
-void PrintHello();
-void PrintNice();
+//#include <iostream>
+//
+//void PrintHello();
+//void PrintNice();

@@ -1,5 +1,5 @@
-﻿#include <iostream>
-
-void PrintNice() {
-	std::cout << "Nice~!\n";
-}
+//#include <iostream>
+//
+//void PrintNice() {
+//	std::cout << "Nice~!\n";
+//}

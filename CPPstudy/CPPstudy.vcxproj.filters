@@ -66,6 +66,9 @@
     <ClCompile Include="안보고연습2.cpp">
       <Filter>소스 파일\MergeSort</Filter>
     </ClCompile>
+    <ClCompile Include="소스3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="헤더.h">
